@@ -1,7 +1,5 @@
 # 100-days-of-java
 
-# 100-days-of-Java
-
 | Dia  | Desafio                                                   | Recursos                                           | Status  |
 |------|-----------------------------------------------------------|----------------------------------------------------|--------|
 | 1    | Escreva um programa Java que imprima "Olá, Mundo!" no console. | Conceitos básicos de Java, saída no console. |  ✅  |
