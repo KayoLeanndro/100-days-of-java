@@ -5,9 +5,9 @@
 | Dia  | Desafio                                                   | Recursos                                           | Status  |
 |------|-----------------------------------------------------------|----------------------------------------------------|--------|
 | 1    | Escreva um programa Java que imprima "Olá, Mundo!" no console. | Conceitos básicos de Java, saída no console. |  ✅  |
-| 2    | Declare uma variável em Java, atribua um número a ela e imprima o número no console. | Declaração de variáveis em Java. |  |
-| 3    | Crie um programa Java que leia dois números do usuário, calcule a soma e imprima o resultado. | Entrada do usuário em Java, operações matemáticas. |   |
-| 4    | Escreva um programa Java que verifique se um número é par ou ímpar e imprima o resultado. | Estruturas condicionais em Java.|   |
+| 2    | Declare uma variável em Java, atribua um número a ela e imprima o número no console. | Declaração de variáveis em Java. | ✅ |
+| 3    | Crie um programa Java que leia dois números do usuário, calcule a soma e imprima o resultado. | Entrada do usuário em Java, operações matemáticas. | ✅ |
+| 4    | Escreva um programa Java que verifique se um número é par ou ímpar e imprima o resultado. | Estruturas condicionais em Java.| ✅ |
 | 5    | Crie uma função em Java para calcular o fatorial de um número. | Laços de repetição em Java. |    |
 | 6    | Implemente um programa Java para verificar se um número é um número primo. | Algoritmos de verificação de números primos em Java.  |    |
 | 7    | Escreva um programa Java que inverta uma string. | Manipulação de strings em Java. |    |
