@@ -12,7 +12,7 @@
 | 8    | Crie uma classe em Java para representar uma calculadora básica com operações de soma, subtração, multiplicação e divisão. | POO (Programação Orientada a Objetos) em Java. |  ✅  |
 | 9    | Implemente um programa Java que ordene um array de números. | Algoritmos de ordenação em Java. |  ✅  |
 | 10   | Escreva um programa Java que converta uma temperatura de Celsius para Fahrenheit e vice-versa. | Conceitos básicos de conversão de unidades em Java. |  ✅  |
-| 11   | Crie uma classe em Java para representar um sistema de gestão de estoque com operações de adicionar, remover e atualizar itens. | POO em Java.  |    |
+| 11   | Crie uma classe em Java para representar um sistema de gestão de estoque com operações de adicionar, remover e atualizar itens. | POO em Java.  |  ✅  |
 | 12   | Implemente um programa Java que calcule a média de uma lista de números. | Manipulação de arrays em Java. |    |
 | 13   | Escreva um programa Java que verifique se uma string é um palíndromo. | Manipulação de strings em Java. |    | 
 | 14   | Crie uma classe em Java para representar um sistema de gerenciamento de alunos com operações de adicionar, remover e atualizar informações dos alunos. | POO em Java. |    |
