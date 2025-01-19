@@ -1,15 +1,13 @@
-import java.util.Scanner;
+# Day 13
 
-public class Day13 {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+## Desafio:
+Escreva um programa Java que verifique se uma string é um palíndromo.
 
-        System.out.println("Digite sua palavra para verificarmos se é um palindromo ou não");
-        String palavra = sc.nextLine();
-        System.out.println(palavraEPalindromo(palavra));
-    }
+**Resultado:**
 
-    public static String palavraEPalindromo(String palavra) {
+```java
+
+ public static String palavraEPalindromo(String palavra) {
         // Logica utilizada:
 
         // Primeiramente pegamos a palavra, invertemos ela e atribuimos a palavra
@@ -28,4 +26,3 @@ public class Day13 {
         return "Nao Palindromo";
 
     }
-}

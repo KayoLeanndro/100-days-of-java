@@ -1,7 +1,13 @@
-import java.util.Scanner;
+# Day 4
 
-public class Day4 {
-    public static void main(String[] args) {
+## Desafio:
+ Escreva um programa Java que verifique se um número é par ou ímpar e imprima o resultado.
+
+**Resultado:**
+
+```java
+
+ public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
         int n = sc.nextInt();
@@ -13,4 +19,3 @@ public class Day4 {
         }
 
     }
-}

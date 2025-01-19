@@ -3,42 +3,34 @@ import java.util.Scanner;
 
 public class Day5 {
     public static void main(String[] args) {
-       
-         //Resolução sem overflow
+
+        // Resolução sem overflow
         Scanner sc = new Scanner(System.in);
         System.out.println("Digite seu numero : ");
 
         int n = sc.nextInt();
         BigInteger vlTotalFatorial = BigInteger.ONE;
 
-        for(int i = n; i > 0; i--){
+        for (int i = n; i > 0; i--) {
             vlTotalFatorial = vlTotalFatorial.multiply(BigInteger.valueOf(i));
         }
 
         System.out.println("O fatorial de " + n + " é: " + vlTotalFatorial);
 
-
-
-
-        //Resolução com overflow 
+        // Resolução com overflow
         // Scanner scanner = new Scanner(System.in);
         // System.out.println("Digite seu numero : ");
-        
+
         // int n = scanner.nextInt();
         // Integer vlTotalFatorial = 1;
 
         // for(int i = n; i > 0; i--){
-        //    vlTotalFatorial *= i;
+        // vlTotalFatorial *= i;
         // }
 
         // System.out.println(vlTotalFatorial);
 
-       
-               
-       
-
-       
-        
+        sc.close();
 
     }
 }
