@@ -1,3 +1,5 @@
+package day_006;
+
 import java.util.Scanner;
 
 public class Day6 {

@@ -1,8 +1,10 @@
+package day_008;
+
 public class Day8 {
     public static void main(String[] args) {
-        
+
         Calculadora calculadora = new Calculadora();
-        
+
         double resultadoSoma = calculadora.soma(10, 3);
         System.out.println("A soma é: " + resultadoSoma);
 
@@ -30,7 +32,6 @@ public class Day8 {
 
 class Calculadora {
 
-    
     public double soma(double n1, double n2) {
         return n1 + n2;
     }
